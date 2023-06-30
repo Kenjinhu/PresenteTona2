@@ -1,0 +1,18 @@
+document.writeln('<html>');
+document.writeln('    <head>');
+document.writeln('    <title>Your Title Here</title>');
+document.writeln('    </head>');
+document.writeln('');
+document.writeln('    <body bgcolor="FFFFFF">');
+document.writeln('        <center><img src="wtools.jpg" align="bottom"> </center>');
+document.writeln('        <hr>');
+document.writeln('        <a href="http://wtools.io">Best Online Web Tools</a>is a link to another nifty site');
+document.writeln('        <h1>This is a Header</h1>');
+document.writeln('        <h2>This is a Medium Header</h2>');
+document.writeln('        Send me mail at <a href="mailto:support@example.com">support@example.com</a>.');
+document.writeln('        <p> This is a new paragraph!</p>');
+document.writeln('        <p> <b>This is a new paragraph!</b></p>');
+document.writeln('        <br> <b><i>This is a new sentence without a paragraph break, in bold italics.</i></b>');
+document.writeln('        <hr>');
+document.writeln('    </body>');
+document.writeln('</html>');
